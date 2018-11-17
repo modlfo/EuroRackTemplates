@@ -1,0 +1,15 @@
+B /Users/leonardo/.opam/4.06.1+flambda/lib/bytes
+B /Users/leonardo/.opam/4.06.1+flambda/lib/gg
+B /Users/leonardo/.opam/4.06.1+flambda/lib/ocaml
+B /Users/leonardo/.opam/4.06.1+flambda/lib/result
+B /Users/leonardo/.opam/4.06.1+flambda/lib/uchar
+B /Users/leonardo/.opam/4.06.1+flambda/lib/vg
+B _build/default/.main.eobjs
+S /Users/leonardo/.opam/4.06.1+flambda/lib/bytes
+S /Users/leonardo/.opam/4.06.1+flambda/lib/gg
+S /Users/leonardo/.opam/4.06.1+flambda/lib/ocaml
+S /Users/leonardo/.opam/4.06.1+flambda/lib/result
+S /Users/leonardo/.opam/4.06.1+flambda/lib/uchar
+S /Users/leonardo/.opam/4.06.1+flambda/lib/vg
+S .
+FLG -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs
